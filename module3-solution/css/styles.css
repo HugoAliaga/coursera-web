@@ -1,0 +1,96 @@
+*{
+box-sizing: border-box;
+}
+.navbar {
+  background-color: #8f8f8f;
+  border: 2px solid black;
+}
+.navbar-header .navbar-brand {
+  align-content: center;
+  background-color: inherit;
+  font-size: 300%;
+  margin: 30px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: black;
+  font-weight: bold;
+}
+
+:button .btn .btn-default btn-lg {
+  color: #8f8f8f;
+}
+
+.OurMenu {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin-bottom: 50px;
+  color:black;
+  font-weight: bold;
+}
+
+.MenuContent {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: white;
+  color: black;
+  padding-top: 2px;
+}
+
+.Chicken {
+  font-size: 50%;
+  margin: 5px;
+  padding: 5px;
+}
+
+.navbar-collapsable-elements {
+  background-color: inherit;
+  margin: 0px;
+  padding: auto;
+  height: auto;
+
+}
+
+
+.navbar-collapsable-elements-individual {
+  border: 1px solid black;
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+  color:black !important;
+
+}
+
+.menu-item-container {
+  margin-top:0px;
+  margin-bottom: 0px;
+  padding: 0px;
+  color: black;
+
+}
+
+.cajita {
+  color: black;
+  margin-right: 0;
+  margin-left: 15px;
+  padding: 15pxpx;
+}
+
+.cajita2 {
+  border-top: 2px solid black;
+  color: black;
+}
+.navbar-header button.navbar-toggle {
+  margin-bottom: 0px;
+  margin: 1px;
+  border:1px solid black;
+  top: 40px;
+  right: 10px;
+  position: relative;
+}
+
+.navbar-header .icon-bar  {
+  border: 1px solid black;
+}
+
+.contenido-comida {
+  margin: 10px;
+  padding:5px;
+  background-color: #8f8f8f;
+}
